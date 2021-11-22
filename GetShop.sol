@@ -56,11 +56,11 @@ library GetShop {
     }
 	
     struct OrderData{
-        uint itemID;
-        uint oderID;
-        uint oderTime;
-        uint oderStatus;
-        uint oderPrice;
+        uint itemID;       //商品品項ID編號
+        uint oderID;       //NFT訂單ID
+        uint oderTime;     //訂單生成時間(UNIX時間)
+        uint oderStatus;   //訂單狀態
+        uint oderPrice;    //訂單金額(USDT To WEI)
     }
 
     function set_orderData(ShopOrder storage s, OrderData memory orderData) internal{
