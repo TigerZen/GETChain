@@ -15,4 +15,6 @@ GetChain CommoditiesSwap : https://www.getchainscan.com/#/address/0xF9bDF6eE1dd3
 
 GetChain ECO Pool : https://www.getchainscan.com/#/address/0xD78b5b892CE2E36d34870C74B9e306D1249D67B8
 
+GetChain GetShop : https://www.getchainscan.com/#/address/0xc911981440Ccf740A184f9bAb4A4a8366F4D6341
+
 GetWallet Android App Download : https://get-chain.com/app/GetWallet.apk
