@@ -9,7 +9,7 @@ GETChain deployed contract :
 
 GET Chain
 
-GetChain GETOracle & DEX Swap : https://get-scout.com/0xcbC886a48686A6b0A8Af922Be3CE5E2b8E1B856f
+GetChain GETOracle & DEX Swap : https://get-scout.com/address/0xcbC886a48686A6b0A8Af922Be3CE5E2b8E1B856f
 
 GetChain CommoditiesSwap : https://get-scout.com/address/0xF9bDF6eE1dd3836C2CC90F82BCc11cbC97CcC6Ef
 
